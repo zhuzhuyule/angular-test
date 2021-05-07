@@ -13,3 +13,10 @@ export class BannerModuleInitial {}
 import { BannerComponent as bc_external } from './banner/banner-external.component';
 @NgModule({ declarations: [ bc_external ] })
 export class BannerModuleExternal {}
+
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at http://angular.io/license
+*/

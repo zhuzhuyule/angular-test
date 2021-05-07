@@ -6,3 +6,10 @@ export interface Hero {
 // SystemJS bug:
 // TS file must export something real in JS, not just interfaces
 export const _dummy = undefined;
+
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at http://angular.io/license
+*/
